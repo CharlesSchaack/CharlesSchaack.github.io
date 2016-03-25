@@ -1,0 +1,52 @@
+body {
+  padding-top: 0px;
+  padding-left: 0px;
+}
+.innercontainer {
+  padding: 150px 15px;
+  text-align: left;
+  text-decoration: none;
+  /*color: #999999;*/
+  font-family:  Hack, monospace;
+  z-index: 10;
+}
+.slide2 {
+    position: relative;
+    padding-top: 5%;
+    left: 0;
+    z-index: 1;  /* sets it below the other slides in the layer stack */
+    width: 100%;
+    height: 600px;
+    background-color: #999999;
+}
+a:link {
+	color: skyblue;
+	text-decoration: none;
+	outline: 0;
+}
+a:visited {
+	text-decoration: none;
+	outline: 0;
+}
+a:hover {
+	text-decoration: none;
+	outline: 0;
+}
+a:active {
+	text-decoration: none;
+	outline: 0;
+}
+.image-cropper {
+	max-width: 414px;
+	align-self: center;
+  position: relative;
+  border-radius: 50%;
+  /*overflow: hidden;*/
+  padding-top: 0px
+}
+img {
+	max-width: 100%;
+  display: inline;
+  margin: 0 auto;
+  height: auto;
+}
