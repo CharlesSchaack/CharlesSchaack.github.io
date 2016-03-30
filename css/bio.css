@@ -3,7 +3,7 @@ body {
   padding-left: 0px;
 }
 .innercontainer {
-  padding: 150px 15px;
+  padding: 140px 15px;
   text-align: left;
   text-decoration: none;
   /*color: #999999;*/
@@ -20,33 +20,33 @@ body {
     background-color: #999999;
 }
 a:link {
-	color: skyblue;
-	text-decoration: none;
-	outline: 0;
+    color: skyblue;
+    text-decoration: none;
+    outline: 0;
 }
 a:visited {
-	text-decoration: none;
-	outline: 0;
+    text-decoration: none;
+    outline: 0;
 }
 a:hover {
-	text-decoration: none;
-	outline: 0;
+    text-decoration: none;
+    outline: 0;
 }
 a:active {
-	text-decoration: none;
-	outline: 0;
+    text-decoration: none;
+    outline: 0;
 }
 .image-cropper {
-	max-width: 414px;
-	align-self: center;
+    max-width: 414px;
+    align-self: center;
   position: relative;
   border-radius: 50%;
   /*overflow: hidden;*/
   padding-top: 0px
 }
 img {
-	max-width: 100%;
-  display: inline;
-  margin: 0 auto;
-  height: auto;
+    max-width: 100%;
+    display: inline;
+    margin: 0 auto;
+    height: auto;
 }
